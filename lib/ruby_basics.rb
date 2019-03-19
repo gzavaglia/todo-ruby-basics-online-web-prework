@@ -16,11 +16,13 @@ def greeting(person1,person2)
 end
 
 def return_a_value
-
+phrase = "Nice"
+phrase
 end
 
 def last_evaluated_value
-
+phrase = "expert"
+phrase
 end
 
 def pizza_party
