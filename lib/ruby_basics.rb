@@ -1,6 +1,7 @@
 def division(num1, num2)
  div = num1/num2
  div
+ binding.pry 
 end
 
 def assign_variable(value)
