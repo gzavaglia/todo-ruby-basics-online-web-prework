@@ -11,7 +11,7 @@ def argue(something)
   something
 end
 
-def greeting
+def greeting(person1,person2)
   
 end
 
